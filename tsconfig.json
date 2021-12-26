@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "module": "commonjs",
+    "target": "es5",
+    "baseUrl": ".",
+    "rootDir": ".",
+    "allowJs": true,
+    "esModuleInterop": true,                  /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+    "experimentalDecorators": true,
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*", "sites/**/*",
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "**/*.spec.ts",
+    "src/assets/libs/*",
+  ],
+}
