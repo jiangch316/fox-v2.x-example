@@ -27,7 +27,7 @@ npm run dev
 -   link 导航 sites/example/link-navigate-to/index.vue
 -   编程导航(to）sites/example/program-navigate/index.vue
 -   编程导航(open) sites/example/program-navigate-open/index.vue
--   编程导航(open) sites/example/program-navigate-append/index.vue
+-   编程导航(append) sites/example/program-navigate-append/index.vue
 -   编程导航(整体替换) sites/example/program-navigate-all/index.vue
 -   编程导航(局部替换) sites/example/program-navigate-part/index.vue
 -   参数传递 sites/example/params-pass/index.vue

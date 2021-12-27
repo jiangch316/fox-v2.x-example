@@ -1,7 +1,8 @@
 {
 	"name": "fox",
 	"version": "2.1.0",
-	"description": "fox",
+	"description": "fox router example",
+	"keywords": ["fox","router","vue2"],
 	"scripts": {
 		"start": "cross-env NODE_ENV=development webpack serve --config scripts/webpack.dev.js --progress",
 		"dev": "cross-env NODE_ENV=development webpack --config scripts/webpack.dev.js",
